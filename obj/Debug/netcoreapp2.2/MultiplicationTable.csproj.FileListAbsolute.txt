@@ -1,0 +1,11 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.pdb
